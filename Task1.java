@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Task1 {
 
 	/*
-	 * Prints a rectange with given values of its sides.
+	 * Prints a rectangle with given values of its sides.
 	 * Assume height > 1 and width > 2.
 	 */
 	public static void main(String[] args) {
